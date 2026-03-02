@@ -60,5 +60,377 @@
       "turkishA": "Yüzeysel nezaket jestleri çoğu zaman ilgisizliği gizler.",
       "turkishB": "Gerçek şefkat ise taklit edilemez."
     }
+  ],
+  "meticulous": [
+    {
+      "englishA": "Her notes were meticulous, capturing every nuance.",
+      "englishB": "That precision made the analysis invaluable.",
+      "turkishA": "Notları titizdi, her ayrıntıyı yakalıyordu.",
+      "turkishB": "O hassasiyet analizi paha biçilmez kıldı."
+    },
+    {
+      "englishA": "He arranged the tools in meticulous order.",
+      "englishB": "Such discipline reflected his character.",
+      "turkishA": "Aletleri titiz bir düzenle yerleştirdi.",
+      "turkishB": "Bu disiplin onun karakterini yansıtıyordu."
+    },
+    {
+      "englishA": "Meticulous research revealed hidden connections.",
+      "englishB": "Without it, the truth would remain obscured.",
+      "turkishA": "Titiz araştırma gizli bağlantıları ortaya çıkardı.",
+      "turkishB": "Olmasaydı, gerçek gizli kalırdı."
+    },
+    {
+      "englishA": "Her meticulous handwriting impressed the teacher.",
+      "englishB": "Clarity is a virtue in communication.",
+      "turkishA": "Onun titiz el yazısı öğretmeni etkiledi.",
+      "turkishB": "Açıklık iletişimde bir erdemdir."
+    },
+    {
+      "englishA": "Meticulous planning ensured the project’s success.",
+      "englishB": "Every detail was accounted for.",
+      "turkishA": "Titiz planlama projenin başarısını sağladı.",
+      "turkishB": "Her ayrıntı dikkate alınmıştı."
+    },
+    {
+      "englishA": "He followed the recipe with meticulous care.",
+      "englishB": "The dish turned out perfect.",
+      "turkishA": "Tarifi titizlikle takip etti.",
+      "turkishB": "Yemek mükemmel oldu."
+    },
+    {
+      "englishA": "Meticulous cleaning left the room spotless.",
+      "englishB": "Not a speck of dust remained.",
+      "turkishA": "Titiz temizlik odayı lekesiz bıraktı.",
+      "turkishB": "Bir toz zerresi bile kalmadı."
+    },
+    {
+      "englishA": "Her meticulous attention to detail won her praise.",
+      "englishB": "Excellence lies in the small things.",
+      "turkishA": "Onun ayrıntılara titiz dikkati övgü kazandırdı.",
+      "turkishB": "Mükemmellik küçük şeylerde yatar."
+    },
+    {
+      "englishA": "Meticulous editing improved the manuscript greatly.",
+      "englishB": "Errors vanished under her careful eye.",
+      "turkishA": "Titiz düzenleme el yazmasını büyük ölçüde geliştirdi.",
+      "turkishB": "Hatalar onun dikkatli gözünden kayboldu."
+    },
+    {
+      "englishA": "He kept meticulous records of every transaction.",
+      "englishB": "Such diligence safeguarded his business.",
+      "turkishA": "Her işlemin titiz kayıtlarını tuttu.",
+      "turkishB": "Bu özen işini güvence altına aldı."
+    }
+  ],
+  "diligent": [
+    {
+      "englishA": "She was diligent in her studies, never missing a detail.",
+      "englishB": "Her consistency brought remarkable success.",
+      "turkishA": "Çalışmalarında titizdi, hiçbir ayrıntıyı kaçırmazdı.",
+      "turkishB": "Tutarlılığı olağanüstü başarı getirdi."
+    },
+    {
+      "englishA": "His diligent efforts kept the project on track.",
+      "englishB": "Without them, delays would have been inevitable.",
+      "turkishA": "Onun gayretli çabaları projeyi rayında tuttu.",
+      "turkishB": "Olmasaydı, gecikmeler kaçınılmaz olurdu."
+    },
+    {
+      "englishA": "Diligent workers often achieve more than expected.",
+      "englishB": "Their persistence is the key to progress.",
+      "turkishA": "Gayretli çalışanlar genellikle beklenenden fazlasını başarır.",
+      "turkishB": "Azimleri ilerlemenin anahtarıdır."
+    },
+    {
+      "englishA": "She kept diligent notes during the lecture.",
+      "englishB": "Later, they proved invaluable for revision.",
+      "turkishA": "Ders sırasında titiz notlar tuttu.",
+      "turkishB": "Sonradan, tekrar için paha biçilmez oldu."
+    },
+    {
+      "englishA": "His diligent practice improved his skills rapidly.",
+      "englishB": "Dedication always accelerates growth.",
+      "turkishA": "Onun gayretli çalışması becerilerini hızla geliştirdi.",
+      "turkishB": "Adanmışlık her zaman gelişimi hızlandırır."
+    },
+    {
+      "englishA": "Diligent research uncovered the missing evidence.",
+      "englishB": "It changed the course of the investigation.",
+      "turkishA": "Titiz araştırma kayıp kanıtı ortaya çıkardı.",
+      "turkishB": "Bu, soruşturmanın seyrini değiştirdi."
+    },
+    {
+      "englishA": "She was diligent in her duties, earning respect.",
+      "englishB": "Responsibility and effort never go unnoticed.",
+      "turkishA": "Görevlerinde titizdi, saygı kazandı.",
+      "turkishB": "Sorumluluk ve çaba asla gözden kaçmaz."
+    },
+    {
+      "englishA": "His diligent preparation made the presentation flawless.",
+      "englishB": "Confidence comes from hard work.",
+      "turkishA": "Onun gayretli hazırlığı sunumu kusursuz yaptı.",
+      "turkishB": "Özgüven sıkı çalışmadan gelir."
+    },
+    {
+      "englishA": "Diligent attention to detail prevented mistakes.",
+      "englishB": "Accuracy is born from care.",
+      "turkishA": "Ayrıntılara titiz dikkat hataları önledi.",
+      "turkishB": "Doğruluk özenle doğar."
+    },
+    {
+      "englishA": "She remained diligent despite challenges.",
+      "englishB": "Persistence carried her through difficulties.",
+      "turkishA": "Zorluklara rağmen gayretli kaldı.",
+      "turkishB": "Azim onu zorlukların içinden geçirdi."
+    }
+  ],
+    "resilient": [
+    {
+      "englishA": "She remained resilient after the setback.",
+      "englishB": "Her strength inspired everyone around her.",
+      "turkishA": "O, aksilikten sonra dirençli kaldı.",
+      "turkishB": "Onun gücü etrafındakilere ilham verdi."
+    },
+    {
+      "englishA": "Resilient communities rebuild faster after disasters.",
+      "englishB": "Unity is the foundation of recovery.",
+      "turkishA": "Dirençli topluluklar felaketlerden sonra daha hızlı yeniden inşa eder.",
+      "turkishB": "Birlik, iyileşmenin temelidir."
+    },
+    {
+      "englishA": "He showed resilient determination in the competition.",
+      "englishB": "Persistence carried him to victory.",
+      "turkishA": "Yarışmada dirençli bir kararlılık gösterdi.",
+      "turkishB": "Azim onu zafere taşıdı."
+    },
+    {
+      "englishA": "Resilient plants survive harsh climates.",
+      "englishB": "Adaptation is their secret weapon.",
+      "turkishA": "Dirençli bitkiler sert iklimlerde hayatta kalır.",
+      "turkishB": "Uyum onların gizli silahıdır."
+    },
+    {
+      "englishA": "She remained resilient despite criticism.",
+      "englishB": "Confidence shielded her from doubt.",
+      "turkishA": "Eleştirilere rağmen dirençli kaldı.",
+      "turkishB": "Özgüven onu şüpheden korudu."
+    },
+    {
+      "englishA": "Resilient athletes recover quickly from injuries.",
+      "englishB": "Their discipline accelerates healing.",
+      "turkishA": "Dirençli sporcular sakatlıklardan hızlıca iyileşir.",
+      "turkishB": "Disiplinleri iyileşmeyi hızlandırır."
+    },
+    {
+      "englishA": "He remained resilient in the face of failure.",
+      "englishB": "Every setback became a lesson.",
+      "turkishA": "Başarısızlık karşısında dirençli kaldı.",
+      "turkishB": "Her aksilik bir ders oldu."
+    },
+    {
+      "englishA": "Resilient leaders guide their teams through crises.",
+      "englishB": "Calmness inspires confidence.",
+      "turkishA": "Dirençli liderler ekiplerini krizlerden geçirir.",
+      "turkishB": "Sakinlik güveni ilham eder."
+    },
+    {
+      "englishA": "She was resilient in pursuing her dreams.",
+      "englishB": "Challenges only fueled her ambition.",
+      "turkishA": "Hayallerinin peşinden giderken dirençliydi.",
+      "turkishB": "Zorluklar sadece hırsını besledi."
+    },
+    {
+      "englishA": "Resilient minds adapt to change easily.",
+      "englishB": "Flexibility is their strength.",
+      "turkishA": "Dirençli zihinler değişime kolayca uyum sağlar.",
+      "turkishB": "Esneklik onların gücüdür."
+    }
+  ],
+    "innovative": [
+    {
+      "englishA": "Her innovative idea transformed the company’s strategy.",
+      "englishB": "Creativity often sparks new opportunities.",
+      "turkishA": "Onun yenilikçi fikri şirketin stratejisini dönüştürdü.",
+      "turkishB": "Yaratıcılık çoğu zaman yeni fırsatlar doğurur."
+    },
+    {
+      "englishA": "Innovative designs attract global attention.",
+      "englishB": "Originality is the heart of progress.",
+      "turkishA": "Yenilikçi tasarımlar dünya çapında dikkat çeker.",
+      "turkishB": "Özgünlük ilerlemenin kalbidir."
+    },
+    {
+      "englishA": "He proposed an innovative solution to the problem.",
+      "englishB": "It saved both time and resources.",
+      "turkishA": "Soruna yenilikçi bir çözüm önerdi.",
+      "turkishB": "Hem zaman hem kaynak tasarrufu sağladı."
+    },
+    {
+      "englishA": "Innovative thinkers challenge traditional methods.",
+      "englishB": "Their vision reshapes the future.",
+      "turkishA": "Yenilikçi düşünenler geleneksel yöntemlere meydan okur.",
+      "turkishB": "Onların vizyonu geleceği yeniden şekillendirir."
+    },
+    {
+      "englishA": "Her innovative teaching style engaged the students.",
+      "englishB": "Learning became both fun and effective.",
+      "turkishA": "Onun yenilikçi öğretim tarzı öğrencileri etkiledi.",
+      "turkishB": "Öğrenme hem eğlenceli hem de verimli hale geldi."
+    },
+    {
+      "englishA": "Innovative technology changed the way we communicate.",
+      "englishB": "Distance no longer feels like a barrier.",
+      "turkishA": "Yenilikçi teknoloji iletişim biçimimizi değiştirdi.",
+      "turkishB": "Mesafe artık bir engel gibi hissettirmiyor."
+    },
+    {
+      "englishA": "He admired her innovative approach to design.",
+      "englishB": "It combined beauty with functionality.",
+      "turkishA": "Onun tasarıma yenilikçi yaklaşımına hayran kaldı.",
+      "turkishB": "Hem güzellik hem işlevsellik bir aradaydı."
+    },
+    {
+      "englishA": "Innovative leaders inspire their teams to excel.",
+      "englishB": "Motivation grows from fresh ideas.",
+      "turkishA": "Yenilikçi liderler ekiplerini mükemmelliğe ilham eder.",
+      "turkishB": "Motivasyon taze fikirlerden doğar."
+    },
+    {
+      "englishA": "Her innovative project won the competition.",
+      "englishB": "Judges praised its originality.",
+      "turkishA": "Onun yenilikçi projesi yarışmayı kazandı.",
+      "turkishB": "Jüri özgünlüğünü övdü."
+    },
+    {
+      "englishA": "Innovative solutions often emerge from collaboration.",
+      "englishB": "Teamwork fuels creativity.",
+      "turkishA": "Yenilikçi çözümler çoğu zaman işbirliğinden doğar.",
+      "turkishB": "Takım çalışması yaratıcılığı besler."
+    }
+  ],
+    "eloquent": [
+    {
+      "englishA": "Her eloquent speech captivated the audience.",
+      "englishB": "Every word carried weight and grace.",
+      "turkishA": "Onun etkileyici konuşması izleyiciyi büyüledi.",
+      "turkishB": "Her kelime ağırlık ve zarafet taşıyordu."
+    },
+    {
+      "englishA": "He delivered an eloquent argument in court.",
+      "englishB": "The jury listened with full attention.",
+      "turkishA": "Mahkemede etkileyici bir sav sundu.",
+      "turkishB": "Jüri tam dikkatle dinledi."
+    },
+    {
+      "englishA": "Her eloquent writing conveyed deep emotions.",
+      "englishB": "Readers felt every nuance.",
+      "turkishA": "Onun etkileyici yazısı derin duyguları aktardı.",
+      "turkishB": "Okuyucular her nüansı hissetti."
+    },
+    {
+      "englishA": "An eloquent leader inspires confidence.",
+      "englishB": "Words become a source of strength.",
+      "turkishA": "Etkileyici bir lider güven ilham eder.",
+      "turkishB": "Sözler bir güç kaynağı olur."
+    },
+    {
+      "englishA": "His eloquent explanation clarified the complex topic.",
+      "englishB": "Confusion gave way to understanding.",
+      "turkishA": "Onun etkileyici açıklaması karmaşık konuyu netleştirdi.",
+      "turkishB": "Kafa karışıklığı yerini anlayışa bıraktı."
+    },
+    {
+      "englishA": "She gave an eloquent toast at the wedding.",
+      "englishB": "It moved everyone present.",
+      "turkishA": "Düğünde etkileyici bir kadeh kaldırdı.",
+      "turkishB": "Oradaki herkesi duygulandırdı."
+    },
+    {
+      "englishA": "His eloquent letter expressed gratitude.",
+      "englishB": "Sincerity shone through every line.",
+      "turkishA": "Onun etkileyici mektubu minnettarlığı ifade etti.",
+      "turkishB": "Samimiyet her satırda parlıyordu."
+    },
+    {
+      "englishA": "An eloquent storyteller brings tales to life.",
+      "englishB": "Imagination flows effortlessly.",
+      "turkishA": "Etkileyici bir hikâye anlatıcı öyküleri canlandırır.",
+      "turkishB": "Hayal gücü zahmetsizce akar."
+    },
+    {
+      "englishA": "Her eloquent defense silenced critics.",
+      "englishB": "Logic and passion worked together.",
+      "turkishA": "Onun etkileyici savunması eleştirmenleri susturdu.",
+      "turkishB": "Mantık ve tutku birlikte çalıştı."
+    },
+    {
+      "englishA": "He gave an eloquent farewell speech.",
+      "englishB": "It left a lasting impression.",
+      "turkishA": "Etkileyici bir veda konuşması yaptı.",
+      "turkishB": "Kalıcı bir izlenim bıraktı."
+    }
+  ],
+  "astute": [
+    {
+      "englishA": "Her astute observation revealed the hidden flaw.",
+      "englishB": "It saved the team from failure.",
+      "turkishA": "Onun keskin gözlemi gizli kusuru ortaya çıkardı.",
+      "turkishB": "Bu, ekibi başarısızlıktan kurtardı."
+    },
+    {
+      "englishA": "He made an astute investment decision.",
+      "englishB": "The returns exceeded expectations.",
+      "turkishA": "Keskin bir yatırım kararı verdi.",
+      "turkishB": "Getiriler beklentileri aştı."
+    },
+    {
+      "englishA": "Her astute analysis clarified the situation.",
+      "englishB": "Confusion turned into clarity.",
+      "turkishA": "Onun keskin analizi durumu netleştirdi.",
+      "turkishB": "Kafa karışıklığı açıklığa dönüştü."
+    },
+    {
+      "englishA": "An astute negotiator secures fair deals.",
+      "englishB": "Skill and patience are essential.",
+      "turkishA": "Keskin bir müzakereci adil anlaşmalar sağlar.",
+      "turkishB": "Beceri ve sabır esastır."
+    },
+    {
+      "englishA": "His astute remark changed the discussion.",
+      "englishB": "Everyone reconsidered their stance.",
+      "turkishA": "Onun keskin yorumu tartışmayı değiştirdi.",
+      "turkishB": "Herkes tutumunu yeniden düşündü."
+    },
+    {
+      "englishA": "She gave an astute critique of the proposal.",
+      "englishB": "It highlighted overlooked details.",
+      "turkishA": "Öneriye keskin bir eleştiri getirdi.",
+      "turkishB": "Gözden kaçan ayrıntıları vurguladı."
+    },
+    {
+      "englishA": "Astute leaders anticipate future challenges.",
+      "englishB": "Preparation ensures resilience.",
+      "turkishA": "Keskin liderler gelecekteki zorlukları öngörür.",
+      "turkishB": "Hazırlık dayanıklılığı sağlar."
+    },
+    {
+      "englishA": "His astute judgment guided the team.",
+      "englishB": "They trusted his insight.",
+      "turkishA": "Onun keskin yargısı ekibe rehberlik etti.",
+      "turkishB": "Onun içgörüsüne güvendiler."
+    },
+    {
+      "englishA": "Her astute question revealed the truth.",
+      "englishB": "Silence confirmed the answer.",
+      "turkishA": "Onun keskin sorusu gerçeği ortaya çıkardı.",
+      "turkishB": "Sessizlik cevabı doğruladı."
+    },
+    {
+      "englishA": "Astute analysis often leads to innovation.",
+      "englishB": "Clarity sparks creativity.",
+      "turkishA": "Keskin analiz çoğu zaman yeniliğe yol açar.",
+      "turkishB": "Açıklık yaratıcılığı tetikler."
+    }
   ]
 }
